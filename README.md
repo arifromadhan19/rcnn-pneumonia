@@ -1,22 +1,22 @@
-# Region-based convolutional neural network - Pneumonia Kaggle
+# Region-Based Convolutional Neural Network - Pneumonia Kaggle
 
-# Clone Project
+## Clone Project
 	```
 	$ git clone git@github.com:arifromadhan19/rcnn-pneumonia.git
 	```
-
-# Dependencies (in python env)
+## Dependencies (in python env)
 	```
 	$ pip install -r requirements.txt
 	```
-# All Function :
+
+## All Function :
 - [R-CNN](#1-mysql)
 	- [x] Selective Search
 	- [ ] Convolutional Neural Network (VGG16)
 	- [ ] Regression
 	- [ ] Support Vector Machine (SVM)
 
-# Reference :
+## Reference :
 - [Selective Search](#1-Selective Search)
 	1. http://www.huppelen.nl/publications/selectiveSearchDraft.pdf
 	2. https://www.robots.ox.ac.uk/~vgg/rg/papers/sande_iccv11.pdf
@@ -27,6 +27,6 @@
 	7. https://ieeexplore.ieee.org/document/7353358
 	8. http://www.huppelen.nl/publications/selectiveSearchDraft.pdf
 
-- [R-CNN](#1-R_CNN)
+- [R-CNN](#2-R_CNN)
 	1. https://github.com/FairyOnIce/ObjectDetectionRCNN
 	2. https://arxiv.org/abs/1311.2524
