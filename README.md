@@ -4,7 +4,7 @@
 	
 	$ git clone git@github.com:arifromadhan19/rcnn-pneumonia.git
 	
-## Dependencies (in python env)
+## Dependencies
 	
 	$ pip install -r requirements.txt
 	
