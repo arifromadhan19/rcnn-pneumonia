@@ -1,13 +1,13 @@
 # Region-Based Convolutional Neural Network - Pneumonia Kaggle
 
 ## Clone Project
-	```
+	
 	$ git clone git@github.com:arifromadhan19/rcnn-pneumonia.git
-	```
+	
 ## Dependencies (in python env)
-	```
+	
 	$ pip install -r requirements.txt
-	```
+	
 
 ## All Function :
 - [R-CNN](#1-mysql)
