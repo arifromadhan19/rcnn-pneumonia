@@ -99,6 +99,5 @@ __pycache__
 
 # model
 .ipynb_checkpoints
-data/stage_2_train_images_png
-
-coba.py
+data/stage_2_train_images_png/
+data/stage_2_train_images/
