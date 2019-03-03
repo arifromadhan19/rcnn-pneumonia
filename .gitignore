@@ -102,3 +102,5 @@ __pycache__
 app/assets/data/stage_2_train_images_png/
 app/assets/data/stage_2_train_images/
 app/assets/model/
+
+coba.py
