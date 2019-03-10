@@ -102,5 +102,7 @@ __pycache__
 app/assets/data/stage_2_train_images_png/
 app/assets/data/stage_2_train_images/
 app/assets/model/
+app/assets/paper/rcnn paper
+app/assets/paper/selective search
 
 coba.py

@@ -30,3 +30,7 @@
 - [R-CNN](#2-R_CNN)
 	1. https://github.com/FairyOnIce/ObjectDetectionRCNN
 	2. https://arxiv.org/abs/1311.2524
+	3. https://ieeexplore.ieee.org/document/7603232
+	4. https://ieeexplore.ieee.org/document/7112511
+	5. https://www.researchgate.net/publication/326582972_Rotated_Region_Based_Fully_Convolutional_Network_for_Ship_Detection
+	6. http://www.m-hikari.com/ces/ces2017/ces25-28-2017/p/jimenezCES25-28-2017.pdf
