@@ -1,0 +1,8 @@
+https://docs.google.com/document/d/1UFt4QkJV3gSDeGjCU8KNuj0vlfAyjo81CNbXO6CVTAI/edit?ts=5c9625da#
+
+
+
+https://www.hackerearth.com/blog/machine-learning/introduction-to-object-detection/
+https://jhui.github.io/2017/03/15/Fast-R-CNN-and-Faster-R-CNN/
+https://medium.com/nodeflux/convolutional-neural-net-untuk-deteksi-objek-f14d72f11ba6
+https://medium.com/@richad_
